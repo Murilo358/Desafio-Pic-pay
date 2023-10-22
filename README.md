@@ -10,14 +10,15 @@
 <p align="justify">
 
 Projeto acompanhado com o vídeo da Fernanda Kipper: <a href="https://www.youtube.com/watch?v=QXunBiLq2SM">Vídeo</a>
-Link do desafio principal
+<br/>
+Link do desafio principal: <a href="https://github.com/PicPay/picpay-desafio-backend">https://github.com/PicPay/picpay-desafio-backend</a>
 </p>
 
 
 ## Ferramentas-utilizadas
 
 ![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
-![SPRING BOOT]([https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117](https://img.shields.io/badge/-SPRINGBOOT-0D1117?style=for-the-badge&logo=SPRING&labelColor=0D1117))&nbsp;
+![SPRING BOOT](https://img.shields.io/badge/-SPRINGBOOT-0D1117?style=for-the-badge&logo=SPRING&labelColor=0D1117)&nbsp;
 
 ###
 
